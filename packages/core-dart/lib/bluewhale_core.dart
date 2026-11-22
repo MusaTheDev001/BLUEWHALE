@@ -33,6 +33,7 @@ library;
 // Addresses
 export 'src/address/codes.dart';
 export 'src/address/detect.dart';
+export 'src/address/contract.dart';
 export 'src/address/parse.dart';
 export 'src/address/stellar_address.dart';
 export 'src/address/validate.dart';
